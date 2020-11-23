@@ -25,14 +25,5 @@
     "Get Answers": {
       "script": "https://api.chloe.to/scripthub/Quizlet/QuizletGetAnswers.js"
     }
-  },
-  "Funny Stuff(work on any site)": {
-    "Funny Troll": {
-      "script": "https://cdn.jsdelivr.net/gh/SnowLord7/Random-Useful-Scripts@master/troll.js"
-    }
-  },
-    "Flying Text": {
-      "script": "https://cdn.jsdelivr.net/gh/SnowLord7/Flying-Text@master/index.js" 
-    }  
-  }  
+  }
 }
